@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farith%20Fari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20Analyst%20%7C%20Data%20%26%20AI%20Portfolio%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farith%20Fari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20Analyst%20%7C%20Data%20and%20AI%20Portfolio%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Analyst+%7C+London;BCS+Business+Analysis+Foundation;Power+BI+%2B+SQL+%2B+Python;Building+AI-Powered+BA+Tools" alt="Typing SVG"/>
 
